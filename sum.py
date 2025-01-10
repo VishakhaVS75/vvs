@@ -1,4 +1,5 @@
 a=10
 b=20
-c=a+b
-print(c)
+c=70
+d=a+b+c
+print(d)
